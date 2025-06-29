@@ -1,0 +1,6 @@
+webcam-snapshot-tool/
+├── snapshot.py
+├── snapshots/
+│   └── (saved images)
+├── requirements.txt
+└── README.md
